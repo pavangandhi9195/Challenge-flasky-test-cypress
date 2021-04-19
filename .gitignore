@@ -1,1 +1,3 @@
 cypress/videos/*
+# Dependency directories
+node_modules/
